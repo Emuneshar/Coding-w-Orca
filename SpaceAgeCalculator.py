@@ -10,5 +10,7 @@ today = date.today()
 
 difference = today - birthday
 
+days = difference.days
+
 
 
