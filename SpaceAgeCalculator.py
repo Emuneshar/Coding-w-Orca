@@ -16,5 +16,20 @@ print(f"You are {days} Earth days old")
 
 mercuryDays = days / 58.6
 
+venusDays = days / 243
+
+mars = days / 1.02
+
+moonDays = days / 27.32
+
+saturnDays = days/0.42
+
+jupiterDays = days / 0.41
+
+uranusDays = days / 0.67
+
+neptuneDays = days / 0.72
+
+
 
 
