@@ -12,5 +12,7 @@ difference = today - birthday
 
 days = difference.days
 
+print(f"You are {days} Earth days old")
+
 
 
