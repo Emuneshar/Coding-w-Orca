@@ -14,5 +14,7 @@ days = difference.days
 
 print(f"You are {days} Earth days old")
 
+mercuryDays = days / 58.6
+
 
 
