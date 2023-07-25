@@ -6,5 +6,9 @@ day = int(input("What day were you born?"))
 
 birthday = date(year, month, day)
 
+today = date.today()
+
+difference = today - birthday
+
 
 
